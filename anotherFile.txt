@@ -1,2 +1,4 @@
 Just another file with line one.
 
+Added a line, using git from within Eclipse.
+
